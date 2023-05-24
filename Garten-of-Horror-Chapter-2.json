@@ -35,7 +35,7 @@
             "diamond": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/diam.png",
             "cover": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/couv.png",
             
-            "activate_update_app": "true",
+            "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=real.garten.of.banban2.chef.pigster.banban3.chapter4"
         }
     ],
